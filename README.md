@@ -1,5 +1,5 @@
 # Open Ephys GUI
-
+test
 ![GUI screenshot](/Resources/Screenshots/screenshot-medium.png)
 
 The Open Ephys GUI is designed to provide a fast and flexible interface for acquiring and visualizing data from extracellular electrodes. Compatible data acquisition hardware includes:
